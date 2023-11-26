@@ -47,7 +47,9 @@ The app should have the following non-functional requirements:
 
 4. **Scalability**: The app should be able to handle a large number of users and events.
 
-5. **Reliability**: The app should be reliable and available at all times.
+This description was created with the help of Bing's ChatGPT. 
+
+6. **Reliability**: The app should be reliable and available at all times.
 
 ## Conclusion
 This requirements specification outlines the features and non-functional requirements for a P2P event planning app. The app should be easy to use, fast, secure, scalable, and reliable. It should be available on both iOS and Android platforms.
