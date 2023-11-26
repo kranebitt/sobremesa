@@ -52,9 +52,12 @@ The app should have the following non-functional requirements:
 
 4. **Scalability**: The app should be able to handle a large number of users and events.
 
-This description was created with the help of Bing's ChatGPT. 
+5. **Reliability**: The app should be reliable and available at all times.
 
-6. **Reliability**: The app should be reliable and available at all times.
+## Incentivization
+If a smart contract is applied within the app framework, the creation of any event could cost the quivalent of 0,45 USD in a crypto currency with little to no transcation fee. Of this amount 0.2 should go to the continuous improvement of the UX (wallet adress of the UX team), 0.2 should go to the developing community and 0.05 to sales and marketing. Question: is a DAO needed for this to work in an automatized manner?
 
 ## Conclusion
 This requirements specification outlines the features and non-functional requirements for a P2P event planning app. The app should be easy to use, fast, secure, scalable, and reliable. It should be available on both iOS and Android platforms.
+
+This description was created with the help of Bing's ChatGPT. 
