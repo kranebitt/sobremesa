@@ -60,4 +60,6 @@ If a smart contract is applied within the app framework, the creation of any eve
 ## Conclusion
 This requirements specification outlines the features and non-functional requirements for a P2P event planning app. The app should be easy to use, fast, secure, scalable, and reliable. It should be available on both iOS and Android platforms.
 
-This description was created with the help of Bing's ChatGPT. 
+## Update:
+Currently, there is a feature request on @signalapp community forum: https://community.signalusers.org/t/a-peer-to-peer-event-and-activity-function-application-on-top-of-signal/57513.
+Through the forum, the project Gathio was proposed, which checks many of the abovementioned boxes: https://github.com/lowercasename/gathio
